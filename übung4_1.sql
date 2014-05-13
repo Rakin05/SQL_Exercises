@@ -1,0 +1,1 @@
+INSERT INTO mitarbeiter (vorname, nachname, plz, ort, strasse, eintrittsdatum, mitarbeiternr) VALUES ("Hans", "Ulm", "53113",  "Bonn", "Talweg 7", "2011-01-01",304);

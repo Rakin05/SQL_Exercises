@@ -1,0 +1,1 @@
+INSERT INTO artikel (artikelnr, bezeichnung, hersteller, kategorie, mwst, nettopreis) VALUES (51, "MSSQL Server 2012", 10, 8, 2, 1300.00);
