@@ -1,0 +1,1 @@
+DROP INDEX idx_ort ON kunde;
